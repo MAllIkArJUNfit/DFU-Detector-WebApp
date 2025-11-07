@@ -9,7 +9,7 @@ A Flask-based deep learning app that detects Diabetic Foot Ulcers using a Tensor
 
 ## 🧠 Run Locally
 ```bash
-git clone https://github.com/<your-username>/DFU-Detector-WebApp.git
+git clone https://github.com/MAllIkArJUNfit/DFU-Detector-WebApp.git
 cd DFU-Detector-WebApp
 pip install -r requirements.txt
 python app.py
